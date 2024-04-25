@@ -1,6 +1,6 @@
 # Fetch-Rewards
 
-This is the take home project from Fetch Reward for the role of iOS Engineer. While this submission does indeed use a decent amount of UIKit for the UI creation/design, I am very enthusiastic to learn SwiftUI and switch to the dark (and honestly more code friendly) side of iOS engineering!
+This is the take home coding assignment from Fetch Reward for the role of iOS Engineer. While this submission does indeed use a decent amount of UIKit for the UI creation/design, I am very enthusiastic to learn SwiftUI and switch to the dark (and honestly more code friendly) side of iOS engineering!
 
 ## Assumptions
 
